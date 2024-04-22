@@ -1,0 +1,88 @@
+{
+  "user": "Severo Carrasco",
+  "program": "Ingeniería Informática",
+  "questions": {
+    "multipleChoice": [
+      {
+        "id": 1,
+        "content": "Conozco el objeto de estudio de la Ingeniería Informática.",
+        "response": ""
+      },
+      {
+        "id": 2,
+        "content": "Me interesa conocer y estar al día en temas relacionados con la tecnología.",
+        "response": ""
+      },
+      {
+        "id": 3,
+        "content": "Conozco el plan de estudios del Grado en Ingeniería Informática.",
+        "response": ""
+      },
+      {
+        "id": 4,
+        "content": "Conozco las salidas profesionales del Grado en Ingeniería Informática.",
+        "response": ""
+      },
+      {
+        "id": 5,
+        "content": "Tengo una alta motivación por los contenidos del Grado en Ingeniería Informática.",
+        "response": ""
+      },
+      {
+        "id": 6,
+        "content": "Soy una persona con habilidades para la organización y tecnología.",
+        "response": ""
+      },
+      {
+        "id": 7,
+        "content": "Soy una persona con capacidad para ejercer funciones de mando a los demás.",
+        "response": ""
+      },
+      {
+        "id": 8,
+        "content": "Estoy interesado en la relación de la Informática con las demás áreas del conocimiento.",
+        "response": ""
+      },
+      {
+        "id": 9,
+        "content": "Me gusta pensar en cómo resolver un problema, buscando la forma óptima y además medios alternativos para hacerlo.",
+        "response": ""
+      },
+      {
+        "id": 10,
+        "content": "A menudo me pregunto por como la tecnología se involucra en la solución de los problemas cotidianos.",
+        "response": ""
+      },
+      {
+        "id": 11,
+        "content": "Me interesa la Tecnología.",
+        "response": ""
+      },
+      {
+        "id": 12,
+        "content": "Con frecuencia me llaman la atención los artículos que hablan de Industria y Organización.",
+        "response": ""
+      },
+      {
+        "id": 13,
+        "content": "Al analizar una situación me gusta poder distinguir y separar lo importante de lo secundario.",
+        "response": ""
+      },
+      {
+        "id": 14,
+        "content": "Ejerzo labores de liderazgo y motivación con las personas de mi alrededor.",
+        "response": ""
+      },
+      {
+        "id": 15,
+        "content": "Me gustaría controla los Sistemas de Información de una empresa industrial.",
+        "response": ""
+      }
+    ],
+    "writtenResponse": {
+      "id": 16,
+      "content": "Escribe una corta redacción (40-60 palabras) sobre los motivos que te impulsan a estudiar Ingeniería Informática o que expectativas o proyectos futuros deseas realizar cuando finalices tus estudios.",
+      "response": ""
+    }
+  }
+}

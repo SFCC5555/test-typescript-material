@@ -1,0 +1,44 @@
+// Importing a Google Fonts font
+@import url("");
+// Importing base styles, components and utilities from Tailwind CSS
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+// Setting box-sizing, margin, and padding for all elements in the document
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+// Color and font variables defined in the :root selector
+:root {
+}
+
+body {
+  font-family: sans-serif;
+  height: 100vh;
+}
+
+.logo {
+  height: 70px;
+  width: 238.3px;
+  background-image: url("./assets/images/logo.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.image {
+  width: 453px;
+}
+
+.button {
+  height: 34px;
+  padding-inline: 10px;
+}
+
+main {
+  max-height: calc(100% - 64px);
+}
+
+
